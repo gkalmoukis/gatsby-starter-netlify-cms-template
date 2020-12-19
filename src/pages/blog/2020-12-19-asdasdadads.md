@@ -3,7 +3,7 @@ templateKey: blog-post
 title: asdasdadads
 date: 2020-12-19T13:18:36.055Z
 description: asdadadad
-featuredpost: true
+featuredpost: false
 featuredimage: /img/blog-index.jpg
 tags:
   - asda
